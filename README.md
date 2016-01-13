@@ -1,3 +1,4 @@
+Modified version of monospace theme
 ==========
 monospace
 ==========
@@ -16,3 +17,4 @@ Also, you might want to include the ``DESCRIPTION`` option (it appears in the le
 
 Nice and simple, 
 Enjoy!
+
